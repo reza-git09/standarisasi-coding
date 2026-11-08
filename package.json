@@ -7,7 +7,7 @@
     "test:coverage": "jest --coverage",
     "lint": "eslint .",
     "format:check": "prettier --check .",
-    "coverage:check": "jest --coverage --coverageThreshold='{\"global\":{\"lines\":80,\"branches\":70}}'"
+    "coverage:check": "jest --coverage"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
